@@ -20,3 +20,17 @@ img {
 .navbar-inverse .navbar-nav > li > a:hover {
   color: #C6002A;
 }
+
+@media screen and (min-width: 480px) {
+.navbar-brand
+{
+    padding-left: 15px;
+    }
+}
+
+@media screen and (min-width: 940px) {
+.navbar-brand
+{
+    padding-left: 0;
+    }
+}
