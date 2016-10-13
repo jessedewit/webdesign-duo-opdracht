@@ -63,4 +63,12 @@ body
     background-color: #C6002A;
 }
 
+.vakken-link
+{
+color: white;
+}
 
+.vakken-link :hover
+{
+color: #3a3a3a; 
+}
