@@ -52,3 +52,15 @@ body
 .center{
   text-align: center;
 }
+
+.table >tbody >tr >td {
+    border-top: 0px solid #3a3a3a;
+}
+
+.colored {
+    border-top: 15px solid rgb(34, 34, 34) !important;
+    border-bottom: 15px solid rgb(34, 34, 34);
+    background-color: #C6002A;
+}
+
+
